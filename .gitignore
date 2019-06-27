@@ -1,2 +1,2 @@
-variables.secret.tf
+variable.secret.tf
 .terraform
